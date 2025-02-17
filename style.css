@@ -27,7 +27,7 @@ body{
 .container{
     background-color: rgba(226, 216, 216, 0.388);
     margin: 20px;
-    padding: 40px 80px;
+    padding: 40px;
     border-radius: 20px;
     box-shadow: 5px 5px 20px rgba(41, 34, 34, 0.388);
     max-width:580px;
